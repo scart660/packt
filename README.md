@@ -1,2 +1,2 @@
 # packt
-packt free ebook email notification
+packt ebook email provider
